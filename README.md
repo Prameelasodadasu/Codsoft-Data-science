@@ -21,4 +21,4 @@ The Iris Flower Classification project is a classic machine learning task. It in
 
 The CODSOFT Data Science Internship has been a transformative experience, equipping me with the technical expertise and domain knowledge to address complex, real-world data challenges.I appreciate the opportunity to have contributed to impactful projects and am excited to leverage these skills in future pursuits.
 
-To delve deeper into each project, I invite you to connect with me on LinkedIn and explore my GitHub repositories. I extend my sincere gratitude to CODSOFT for this invaluable learning experience.
+To delve deeper into each project, I invite you to connect with me on LinkedIn and explore my GitHub repositories. I extend my sincere gratitude to CODSOFT for this invaluable learning experience. 
